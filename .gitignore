@@ -1,1 +1,3 @@
 **/.gitignore.js
+**/.vs
+.vs/slnx.sqlite
